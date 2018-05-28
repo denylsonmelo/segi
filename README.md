@@ -82,7 +82,7 @@ Data        |   Evento                  |   Atividade
 <br/>
 
 
-* Lyra, M.R. **Segurança e Auditoria de Sistemas de informação.** Rio de Janeiro: Editora Ciência Moderna Ltda., 2008.
+* Lyra, M.R. **[Segurança e Auditoria de Sistemas de informação.]** Rio de Janeiro: Editora Ciência Moderna Ltda., 2008.
 * Imoniana, J.O. **Auditoria de Sistemas de Informação – 2º edição.** São Paulo: Editora Atlas, 2010.
 * Caruso, C.A.A. **Segurança em informática e de informações – 3º edição.** São Paulo: Editora Senac, 2006.
 * Silva, P.T., Tores, Carvalho, Hugo, Tores, Catarina Botelho. **Segurança dos Sistemas de informação – Gestão estratégica de segurança em empresarial.** Portugal: Editora Atlântico Ltda., 2003.
@@ -117,6 +117,8 @@ Data        |   Evento                  |   Atividade
 [Trabalhos]: #trabalhos
 [Bibliografia]: #bibliografia
 [Extras]: #extras
+
+[Segurança e Auditoria de Sistemas de informação.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=578
 
 [Vikram Sharma - Como a física quântica pode melhorar a criptografia]: https://www.ted.com/talks/vikram_sharma_how_quantum_physics_can_make_encryption_stronger?language=pt-br#t-701428
 [Caleb Barlow - De onde realmente vem o crime cibernético?]: https://www.ted.com/talks/caleb_barlow_where_is_cybercrime_really_coming_from?language=pt-br#t-855957
