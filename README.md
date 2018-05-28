@@ -100,6 +100,10 @@ Data        |   Evento                  |   Atividade
 </div>
 <br/>
 
+**Cisco Academy**
+* [Introdução à Cibersegurança]
+* [Cybersecurity Essentials]
+
 **TED Talks**
 * [Vikram Sharma - Como a física quântica pode melhorar a criptografia]
 * [Caleb Barlow - De onde realmente vem o crime cibernético?]
@@ -140,6 +144,9 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Contributing]: #contributing
 
 [Segurança e Auditoria de Sistemas de informação.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=578
+
+[Introdução à Cibersegurança]: https://426270617.netacad.com/courses/660039
+[Cybersecurity Essentials]: https://426270617.netacad.com/courses/660052
 
 [Vikram Sharma - Como a física quântica pode melhorar a criptografia]: https://www.ted.com/talks/vikram_sharma_how_quantum_physics_can_make_encryption_stronger?language=pt-br#t-701428
 [Caleb Barlow - De onde realmente vem o crime cibernético?]: https://www.ted.com/talks/caleb_barlow_where_is_cybercrime_really_coming_from?language=pt-br#t-855957
