@@ -91,6 +91,8 @@ Data        |   Evento                  |   Atividade
 * Dias, Cláudia. **Segurança e Auditoria da Tecnologia da Informação.** Rio de Janeiro: Axcel Books do Brasil, 2000.
 * Bernstein, T. et al. **Segurança na Internet.** Rio de Janeiro : Campus, 1997.
 
+**Os livros com links possuem exemplares na biblioteca do Campus Parnaíba, os demais encontram-se listados no PPC do curso.**
+
 ## Extras
 ----
 
