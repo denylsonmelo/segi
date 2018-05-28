@@ -9,6 +9,7 @@ Repositório para a disciplina Segurança da Informação dos cursos de Informá
 5. [Trabalhos]
 6. [Bibliografia]
 7. [Extras]
+8. [Contributing]
 
 ## Ementa
 ----
@@ -110,6 +111,25 @@ Data        |   Evento                  |   Atividade
 **Notícias**
 * [Nem FBI consegue decifrar arquivos de Daniel Dantas, diz jornal]
 
+
+## Contributing
+----
+
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
+
+Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Issue. Caso prefira, envie um Pull Request da maneira abaixo.
+
+1. Faça o _fork_ do projeto
+2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
+3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
+4. _Push_ (`git push origin feature/fooBar`)
+5. Crie um novo _Pull Request_
+
+
 [Ementa]: #ementa
 [Objetivo Geral]: #objetivo-geral
 [Objetivo Específico]: #objetivo-específico
@@ -117,6 +137,7 @@ Data        |   Evento                  |   Atividade
 [Trabalhos]: #trabalhos
 [Bibliografia]: #bibliografia
 [Extras]: #extras
+[Contributing]: #contributing
 
 [Segurança e Auditoria de Sistemas de informação.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=578
 
