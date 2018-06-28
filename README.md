@@ -72,6 +72,10 @@ Data        |   Evento                  |   Atividade
 <br/>
 
 **Finais**
+* [Criptografia]
+* [Pesquisa]
+
+**Finais**
 
 ## Bibliografia
 ----
@@ -114,8 +118,11 @@ Data        |   Evento                  |   Atividade
 * [James Lyne - Everyday cybercrime — and what you can do about it]
 * [Misha Glenny - Hire the hackers!]
 
+**Videos**
+* [Black Mirror]
+
 **Notícias**
-* [Nem FBI consegue decifrar arquivos de Daniel Dantas, diz jornal]
+* [Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]
 
 
 ## Contributing
@@ -145,6 +152,9 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Extras]: #extras
 [Contributing]: #contributing
 
+[Criptografia]: trabalho1.md
+[Pesquisa]: trabalho2.md
+
 [Segurança e Auditoria de Sistemas de informação.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=578
 
 [Introdução à Cibersegurança]: https://426270617.netacad.com/courses/660039
@@ -157,4 +167,6 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [James Lyne - Everyday cybercrime — and what you can do about it]: https://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it#t-855957
 [Misha Glenny - Hire the hackers!]: https://www.ted.com/talks/misha_glenny_hire_the_hackers
 
-[Nem FBI consegue decifrar arquivos de Daniel Dantas, diz jornal]: http://g1.globo.com/politica/noticia/2010/06/nem-fbi-consegue-decifrar-arquivos-de-daniel-dantas-diz-jornal.html
+[Black Mirror]: https://www.netflix.com/br/title/70264888
+
+[Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]: https://canaltech.com.br/seguranca/novo-vazamento-expoe-senhas-de-159-milhoes-de-usuarios-do-linkedin-106762/
