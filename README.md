@@ -75,8 +75,6 @@ Data        |   Evento                  |   Atividade
 * [Criptografia]
 * [Pesquisa]
 
-**Finais**
-
 ## Bibliografia
 ----
 
@@ -118,11 +116,16 @@ Data        |   Evento                  |   Atividade
 * [James Lyne - Everyday cybercrime — and what you can do about it]
 * [Misha Glenny - Hire the hackers!]
 
-**Videos**
+**Simply Explained - Savjee**
+* [Asymmetric encryption]
+* [How cookies can track you]
+
+**Series**
 * [Black Mirror]
 
 **Notícias**
 * [Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]
+* [Ataques cibernéticos vão gerar prejuízo de US$ 2 tri até 2019]
 
 
 ## Contributing
@@ -168,5 +171,8 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Misha Glenny - Hire the hackers!]: https://www.ted.com/talks/misha_glenny_hire_the_hackers
 
 [Black Mirror]: https://www.netflix.com/br/title/70264888
+[Asymmetric encryption]: https://www.youtube.com/watch?v=AQDCe585Lnc
+[How cookies can track you]: https://www.youtube.com/watch?v=QWw7Wd2gUJk
 
 [Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]: https://canaltech.com.br/seguranca/novo-vazamento-expoe-senhas-de-159-milhoes-de-usuarios-do-linkedin-106762/
+[Ataques cibernéticos vão gerar prejuízo de US$ 2 tri até 2019]: http://edicaodobrasil.com.br/2018/02/16/ataques-ciberneticos-vao-gerar-prejuizo-de-us-2-tri-ate-2019/
