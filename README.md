@@ -57,6 +57,7 @@ Capacitar o aluno para compreender os diversos tipos de ataque e defesa à integ
 <br/>
 
 Data        |   Evento                  |   Atividade
+---         |   ---                     |   ---
 30/07         |   apresentacao trabalho prazo maximo                     |   ---
 03/08         |   Recuperacao 1                     |   ---
 03/08         |   Recuperacao 2                     |   ---
