@@ -109,7 +109,7 @@ Data        |   Evento                  |   Atividade
 
 **Cisco Academy**
 * [Introdução à Cibersegurança]
-* [Cybersecurity Essentials]
+* ~~[Cybersecurity Essentials]~~
 
 **Mapa de Ataques**
 * [CYBERTHREAT REAL-TIME MAP]
@@ -169,8 +169,8 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 
 [Segurança e Auditoria de Sistemas de informação.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=578
 
-[Introdução à Cibersegurança]: https://426270617.netacad.com/courses/660039
-[Cybersecurity Essentials]: https://426270617.netacad.com/courses/660052
+[Introdução à Cibersegurança]: https://426270617.netacad.com/courses/706185
+[Cybersecurity Essentials]: ---
 
 [CYBERTHREAT REAL-TIME MAP]: https://www.cybermap.kaspersky.com/
 [Norse]: http://map.norsecorp.com/#/
