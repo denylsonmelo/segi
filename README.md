@@ -131,7 +131,7 @@ Data        |   Evento                  |   Atividade
 * [Black Mirror]
 
 **Notícias**
-* [Empresa rastreia 60 milhÃµes de celulares no Brasil, e MP quer saber por que]
+* [Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]
 * [DTI divulga comunicado sobre Q-Acadêmico]
 * [Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]
 * [Ataques cibernéticos vão gerar prejuízo de US$ 2 tri até 2019]
@@ -186,7 +186,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Asymmetric encryption]: https://www.youtube.com/watch?v=AQDCe585Lnc
 [How cookies can track you]: https://www.youtube.com/watch?v=QWw7Wd2gUJk
 
-[Empresa rastreia 60 milhÃµes de celulares no Brasil, e MP quer saber por que]: https://tecnologia.uol.com.br/noticias/redacao/2018/09/14/mpdft-empresa-rastreia-60-milhoes-de-celulares-in-loco.htm
+[Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]: https://tecnologia.uol.com.br/noticias/redacao/2018/09/14/mpdft-empresa-rastreia-60-milhoes-de-celulares-in-loco.htm
 [DTI divulga comunicado sobre Q-Acadêmico]: http://libra.ifpi.edu.br/dti-divulga-comunicado-sobre-q-academico
 [Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]: https://canaltech.com.br/seguranca/novo-vazamento-expoe-senhas-de-159-milhoes-de-usuarios-do-linkedin-106762/
 [Ataques cibernéticos vão gerar prejuízo de US$ 2 tri até 2019]: http://edicaodobrasil.com.br/2018/02/16/ataques-ciberneticos-vao-gerar-prejuizo-de-us-2-tri-ate-2019/
