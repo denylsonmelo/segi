@@ -123,15 +123,20 @@ Data        |   Evento                  |   Atividade
 * [James Lyne - Everyday cybercrime — and what you can do about it]
 * [Misha Glenny - Hire the hackers!]
 
-**Simply Explained - Savjee**
-* [Asymmetric encryption]
-* [How cookies can track you]
+**Videos**
+* [Simply Explained - Savjee - Asymmetric encryption]
+* [Simply Explained - Savjee - How cookies can track you]
+* [Gabriel Pato - Você tampa a sua webcam ?]
+* [Gabriel Pato - Cartões de Transporte público são hackeáveis ?] 
+* [Canal Dev Samurai - Como eu consegui hackear um Hotel em Maceió para não pagar a conta]
 
 **Series**
 * [Black Mirror]
 
 **Notícias**
 * [Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]
+* [Golpe do 'cupom do iFood' no WhatsApp atinge 86 mil brasileiros em 48 horas]
+* [Hacker aproveita bug no Apple Pay e compra 502 iPhones a US$ 0,03]
 * [DTI divulga comunicado sobre Q-Acadêmico]
 * [Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]
 * [Ataques cibernéticos vão gerar prejuízo de US$ 2 tri até 2019]
@@ -182,11 +187,18 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [James Lyne - Everyday cybercrime — and what you can do about it]: https://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it#t-855957
 [Misha Glenny - Hire the hackers!]: https://www.ted.com/talks/misha_glenny_hire_the_hackers
 
+[Simply Explained - Savjee - Asymmetric encryption]: https://www.youtube.com/watch?v=AQDCe585Lnc
+[Simply Explained - Savjee - How cookies can track you]: https://www.youtube.com/watch?v=QWw7Wd2gUJk
+[Gabriel Pato - Você tampa a sua webcam ?]: https://www.youtube.com/watch?v=2bpAg2QI-HM
+[Gabriel Pato - Cartões de Transporte público são hackeáveis ?]: https://www.youtube.com/watch?v=QHcTviUU80A
+[Canal Dev Samurai - Como eu consegui hackear um Hotel em Maceió para não pagar a conta]: https://www.youtube.com/watch?v=7PC4J6BO-8A
+
+
 [Black Mirror]: https://www.netflix.com/br/title/70264888
-[Asymmetric encryption]: https://www.youtube.com/watch?v=AQDCe585Lnc
-[How cookies can track you]: https://www.youtube.com/watch?v=QWw7Wd2gUJk
 
 [Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]: https://tecnologia.uol.com.br/noticias/redacao/2018/09/14/mpdft-empresa-rastreia-60-milhoes-de-celulares-in-loco.htm
+[Golpe do 'cupom do iFood' no WhatsApp atinge 86 mil brasileiros em 48 horas]: https://www.tecmundo.com.br/internet/133509-golpe-cupom-do-ifood-whatsapp-atinge-86-mil-brasileiros-48-horas.htm
+[Hacker aproveita bug no Apple Pay e compra 502 iPhones a US$ 0,03]: https://www.tecmundo.com.br/produto/134478-hacker-aproveita-bug-apple-pay-compra-502-iphones-us-0-03.htm
 [DTI divulga comunicado sobre Q-Acadêmico]: http://libra.ifpi.edu.br/dti-divulga-comunicado-sobre-q-academico
 [Novo vazamento expõe senhas de 159 milhões de usuários do LinkedIn]: https://canaltech.com.br/seguranca/novo-vazamento-expoe-senhas-de-159-milhoes-de-usuarios-do-linkedin-106762/
 [Ataques cibernéticos vão gerar prejuízo de US$ 2 tri até 2019]: http://edicaodobrasil.com.br/2018/02/16/ataques-ciberneticos-vao-gerar-prejuizo-de-us-2-tri-ate-2019/
