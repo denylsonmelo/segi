@@ -135,6 +135,7 @@ Data        |   Evento                  |   Atividade
 
 **Notícias**
 * [';--have i been pwned?]
+* [WannaCry, o ransomware que fez o mundo chorar na sexta-feira (12)]
 * [Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]
 * [Golpe do 'cupom do iFood' no WhatsApp atinge 86 mil brasileiros em 48 horas]
 * [Hacker aproveita bug no Apple Pay e compra 502 iPhones a US$ 0,03]
@@ -198,6 +199,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Black Mirror]: https://www.netflix.com/br/title/70264888
 
 [';--have i been pwned?]: https://haveibeenpwned.com/
+[WannaCry, o ransomware que fez o mundo chorar na sexta-feira (12)]: https://www.tecmundo.com.br/malware/116652-wannacry-ransomware-o-mundo-chorar-sexta-feira-12.htm
 [Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]: https://tecnologia.uol.com.br/noticias/redacao/2018/09/14/mpdft-empresa-rastreia-60-milhoes-de-celulares-in-loco.htm
 [Golpe do 'cupom do iFood' no WhatsApp atinge 86 mil brasileiros em 48 horas]: https://www.tecmundo.com.br/internet/133509-golpe-cupom-do-ifood-whatsapp-atinge-86-mil-brasileiros-48-horas.htm
 [Hacker aproveita bug no Apple Pay e compra 502 iPhones a US$ 0,03]: https://www.tecmundo.com.br/produto/134478-hacker-aproveita-bug-apple-pay-compra-502-iphones-us-0-03.htm
