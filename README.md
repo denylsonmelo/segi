@@ -135,6 +135,9 @@ Data        |   Evento                  |   Atividade
 
 **Notícias**
 * [';--have i been pwned?]
+* [Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]
+* [Um simples tweet pode derrubar uma empresa em 4 minutos.]
+* [O maior ataque DDoS do mundo poderá surgir do Brasil ?!]
 * [WannaCry, o ransomware que fez o mundo chorar na sexta-feira (12)]
 * [Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]
 * [Golpe do 'cupom do iFood' no WhatsApp atinge 86 mil brasileiros em 48 horas]
@@ -199,6 +202,9 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Black Mirror]: https://www.netflix.com/br/title/70264888
 
 [';--have i been pwned?]: https://haveibeenpwned.com/
+[Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]: https://www.naosalvo.com.br/desafio-aceito-07-derrubando-um-site-durante-o-forum-de-seguranca-web/
+[Um simples tweet pode derrubar uma empresa em 4 minutos.]: https://blog.corujadeti.com.br/um-simples-tweet-pode-derrubar-uma-empresa-em-4-minutos/
+[O maior ataque DDoS do mundo poderá surgir do Brasil ?!]: https://blog.corujadeti.com.br/o-maior-ataque-ddos-do-mundo-podera-surgir-do-brasil/
 [WannaCry, o ransomware que fez o mundo chorar na sexta-feira (12)]: https://www.tecmundo.com.br/malware/116652-wannacry-ransomware-o-mundo-chorar-sexta-feira-12.htm
 [Empresa rastreia 60 milhões de celulares no Brasil, e MP quer saber por que]: https://tecnologia.uol.com.br/noticias/redacao/2018/09/14/mpdft-empresa-rastreia-60-milhoes-de-celulares-in-loco.htm
 [Golpe do 'cupom do iFood' no WhatsApp atinge 86 mil brasileiros em 48 horas]: https://www.tecmundo.com.br/internet/133509-golpe-cupom-do-ifood-whatsapp-atinge-86-mil-brasileiros-48-horas.htm
