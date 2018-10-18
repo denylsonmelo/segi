@@ -135,6 +135,7 @@ Data        |   Evento                  |   Atividade
 
 **Notícias**
 * [';--have i been pwned?]
+* [Secretaria de São Paulo é hackeada e tem logins vazados por Anonymous]
 * [Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]
 * [Um simples tweet pode derrubar uma empresa em 4 minutos.]
 * [O maior ataque DDoS do mundo poderá surgir do Brasil ?!]
@@ -202,6 +203,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Black Mirror]: https://www.netflix.com/br/title/70264888
 
 [';--have i been pwned?]: https://haveibeenpwned.com/
+[Secretaria de São Paulo é hackeada e tem logins vazados por Anonymous]: https://www.tecmundo.com.br/seguranca/135341-secretaria-paulo-hackeada-tem-logins-vazados-anonymous.htm
 [Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]: https://www.naosalvo.com.br/desafio-aceito-07-derrubando-um-site-durante-o-forum-de-seguranca-web/
 [Um simples tweet pode derrubar uma empresa em 4 minutos.]: https://blog.corujadeti.com.br/um-simples-tweet-pode-derrubar-uma-empresa-em-4-minutos/
 [O maior ataque DDoS do mundo poderá surgir do Brasil ?!]: https://blog.corujadeti.com.br/o-maior-ataque-ddos-do-mundo-podera-surgir-do-brasil/
