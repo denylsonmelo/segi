@@ -124,6 +124,7 @@ Data        |   Evento                  |   Atividade
 * [Misha Glenny - Hire the hackers!]
 
 **Videos**
+* [Série JR: criminosos roubam senhas e dão golpes na internet]
 * [Simply Explained - Savjee - Asymmetric encryption]
 * [Simply Explained - Savjee - How cookies can track you]
 * [Gabriel Pato - Você tampa a sua webcam ?]
@@ -193,6 +194,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [James Lyne - Everyday cybercrime — and what you can do about it]: https://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it#t-855957
 [Misha Glenny - Hire the hackers!]: https://www.ted.com/talks/misha_glenny_hire_the_hackers
 
+[Série JR: criminosos roubam senhas e dão golpes na internet]: https://www.youtube.com/watch?v=yKnfBp7CKEw
 [Simply Explained - Savjee - Asymmetric encryption]: https://www.youtube.com/watch?v=AQDCe585Lnc
 [Simply Explained - Savjee - How cookies can track you]: https://www.youtube.com/watch?v=QWw7Wd2gUJk
 [Gabriel Pato - Você tampa a sua webcam ?]: https://www.youtube.com/watch?v=2bpAg2QI-HM
