@@ -136,6 +136,7 @@ Data        |   Evento                  |   Atividade
 
 **Notícias**
 * [';--have i been pwned?]
+* [Dados na nuvem estão mais expostos do que as empresas pensam]
 * [Secretaria de São Paulo é hackeada e tem logins vazados por Anonymous]
 * [Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]
 * [Um simples tweet pode derrubar uma empresa em 4 minutos.]
@@ -205,6 +206,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Black Mirror]: https://www.netflix.com/br/title/70264888
 
 [';--have i been pwned?]: https://haveibeenpwned.com/
+[Dados na nuvem estão mais expostos do que as empresas pensam]: http://www.securityreport.com.br/destaques/dados-na-nuvem-estao-mais-expostos-do-que-as-empresas-pensam/
 [Secretaria de São Paulo é hackeada e tem logins vazados por Anonymous]: https://www.tecmundo.com.br/seguranca/135341-secretaria-paulo-hackeada-tem-logins-vazados-anonymous.htm
 [Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]: https://www.naosalvo.com.br/desafio-aceito-07-derrubando-um-site-durante-o-forum-de-seguranca-web/
 [Um simples tweet pode derrubar uma empresa em 4 minutos.]: https://blog.corujadeti.com.br/um-simples-tweet-pode-derrubar-uma-empresa-em-4-minutos/
