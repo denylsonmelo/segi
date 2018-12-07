@@ -131,9 +131,10 @@ Data        |   Evento                  |   Atividade
 * [Gabriel Pato - Cartões de Transporte público são hackeáveis ?] 
 * [Canal Dev Samurai - Como eu consegui hackear um Hotel em Maceió para não pagar a conta]
 
-**Series**
+**Produções**
 * [Black Mirror]
 * [Mr. Robot]
+* [Snowden]
 
 **Notícias**
 * [';--have i been pwned?]
@@ -206,6 +207,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 
 [Black Mirror]: https://www.netflix.com/br/title/70264888
 [Mr. Robot]: https://www.amazon.com/Mr-Robot-Season-1/dp/B00YBX664Q
+[Snowden]: https://www.amazon.com/dp/B01LZKKXS1
 
 [';--have i been pwned?]: https://haveibeenpwned.com/
 [Dados na nuvem estão mais expostos do que as empresas pensam]: http://www.securityreport.com.br/destaques/dados-na-nuvem-estao-mais-expostos-do-que-as-empresas-pensam/
