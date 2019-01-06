@@ -142,6 +142,7 @@ Data        |   Evento                  |   Atividade
 
 **Notícias**
 * [';--have i been pwned?]
+* [Dados expostos: cuidado com o preenchimento automático de formulários]
 * [Dados na nuvem estão mais expostos do que as empresas pensam]
 * [Secretaria de São Paulo é hackeada e tem logins vazados por Anonymous]
 * [Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]
@@ -217,6 +218,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [The Fifth Estate]: https://www.netflix.com/title/70276712
 
 [';--have i been pwned?]: https://haveibeenpwned.com/
+[Dados expostos: cuidado com o preenchimento automático de formulários]: https://www.redbelt.com.br/blog/2017/06/12/preenchimento-automatico-de-formularios/
 [Dados na nuvem estão mais expostos do que as empresas pensam]: http://www.securityreport.com.br/destaques/dados-na-nuvem-estao-mais-expostos-do-que-as-empresas-pensam/
 [Secretaria de São Paulo é hackeada e tem logins vazados por Anonymous]: https://www.tecmundo.com.br/seguranca/135341-secretaria-paulo-hackeada-tem-logins-vazados-anonymous.htm
 [Desafio Aceito 07 – Derrubando um site durante o Fórum de Segurança Web]: https://www.naosalvo.com.br/desafio-aceito-07-derrubando-um-site-durante-o-forum-de-seguranca-web/
